@@ -1,0 +1,2657 @@
+[
+  {
+    "description": "A complete manuscript frame of blue and gold acanthus scrolls, delicate dark vines, green and yellow leaves, gold buds, red and blue flowers and a long-necked bird; the text area and oval miniature opening are transparent. Part of the Office of the Dead angel and devil set.",
+    "categories": [
+      "botanical",
+      "floral",
+      "scrollwork",
+      "animals"
+    ],
+    "subjects": [
+      "leaf",
+      "vine",
+      "flower",
+      "bud",
+      "bird",
+      "scroll"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "blue",
+      "gold",
+      "green",
+      "yellow",
+      "red",
+      "brown",
+      "black"
+    ],
+    "composition": "single-ornament",
+    "name": "blue-gold-floral-frame",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "cma-2005-206-a",
+    "png": "png/blue-gold-floral-frame.png",
+    "webp": "webp/blue-gold-floral-frame.webp",
+    "width": 3186,
+    "height": 4157,
+    "png_bytes": 11115210,
+    "webp_bytes": 7211298,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/blue-gold-floral-frame.png",
+        "webp": "webp/128/blue-gold-floral-frame.webp",
+        "width": 98,
+        "height": 128,
+        "png_bytes": 32850,
+        "webp_bytes": 29678
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/blue-gold-floral-frame.png",
+        "webp": "webp/256/blue-gold-floral-frame.webp",
+        "width": 196,
+        "height": 256,
+        "png_bytes": 126808,
+        "webp_bytes": 104026
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/blue-gold-floral-frame.png",
+        "webp": "webp/512/blue-gold-floral-frame.webp",
+        "width": 392,
+        "height": 512,
+        "png_bytes": 452810,
+        "webp_bytes": 351546
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/blue-gold-floral-frame.png",
+        "webp": "webp/768/blue-gold-floral-frame.webp",
+        "width": 589,
+        "height": 768,
+        "png_bytes": 923853,
+        "webp_bytes": 696834
+      }
+    ],
+    "derivation": "ai-assisted-source-mask",
+    "provenance": {
+      "institution": "Cleveland Museum of Art",
+      "title": "Leaf from a Book of Hours: Office of the Dead: Angel Chasing a Devil (recto)",
+      "object_identifier": "2005.206.a",
+      "date": "c. 1460",
+      "artist": "Coëtivy Master (French)",
+      "record_url": "https://clevelandart.org/art/2005.206.a",
+      "image_rights": "CC0; share_license_status=CC0",
+      "rights_url": "https://www.clevelandart.org/open-access",
+      "source_sha256": "3f5adfecfe574825b8e47db6e3b7975029c48443187a5b1b888befc893dd618c",
+      "image_url": "https://openaccess-cdn.clevelandart.org/2005.206.a/2005.206.a_full.tif",
+      "method": "ai-assisted-source-mask",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original fixed frame and its four original corner compositions; no periodic unit has been established.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "cma-2005-206-a-set",
+        "name": "Office of the Dead angel and devil"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 3635,
+      "height": 5000
+    },
+    "master_longest_dimension_cap": 4157,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Finite blue and gold floral manuscript frame with green leaves, red and blue flowers, ivy and two figural motifs. Part of the Office of the Dead dancing devils set.",
+    "categories": [
+      "floral"
+    ],
+    "subjects": [
+      "frame",
+      "leaf",
+      "flower",
+      "vine",
+      "figure"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "blue",
+      "gold",
+      "green",
+      "red",
+      "black"
+    ],
+    "composition": "single-ornament",
+    "name": "blue-gold-floral-manuscript-frame",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "cma-2005-206-b",
+    "png": "png/blue-gold-floral-manuscript-frame.png",
+    "webp": "webp/blue-gold-floral-manuscript-frame.webp",
+    "width": 3176,
+    "height": 4174,
+    "png_bytes": 16324942,
+    "webp_bytes": 11445212,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/blue-gold-floral-manuscript-frame.png",
+        "webp": "webp/128/blue-gold-floral-manuscript-frame.webp",
+        "width": 97,
+        "height": 128,
+        "png_bytes": 32189,
+        "webp_bytes": 28884
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/blue-gold-floral-manuscript-frame.png",
+        "webp": "webp/256/blue-gold-floral-manuscript-frame.webp",
+        "width": 195,
+        "height": 256,
+        "png_bytes": 125241,
+        "webp_bytes": 103492
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/blue-gold-floral-manuscript-frame.png",
+        "webp": "webp/512/blue-gold-floral-manuscript-frame.webp",
+        "width": 390,
+        "height": 512,
+        "png_bytes": 449514,
+        "webp_bytes": 357478
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/blue-gold-floral-manuscript-frame.png",
+        "webp": "webp/768/blue-gold-floral-manuscript-frame.webp",
+        "width": 584,
+        "height": 768,
+        "png_bytes": 922265,
+        "webp_bytes": 740508
+      }
+    ],
+    "derivation": "native-source-extraction",
+    "provenance": {
+      "institution": "Cleveland Museum of Art",
+      "title": "Leaf from a Book of Hours: Office of the Dead: Two Devils (verso)",
+      "object_identifier": "2005.206.b",
+      "date": "c. 1460",
+      "artist": "Coëtivy Master (French)",
+      "record_url": "https://clevelandart.org/art/2005.206.b",
+      "image_rights": "CC0; share_license_status=CC0",
+      "rights_url": "https://www.clevelandart.org/open-access",
+      "source_sha256": "95460394e5a6c2947fef91eaa47c0dd9d8b038169ba47711ba7c3b4f4a812cf1",
+      "image_url": "https://openaccess-cdn.clevelandart.org/2005.206.b/2005.206.b_full.tif",
+      "method": "native-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original source-visible independent ornament or contacting figure group. No seamless repeat inferred. Exact original source bounds and extraction prompt retained; no unrelated page letters. Source-derived transparency will be reviewed against native scan.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "cma-2005-206-b-set",
+        "name": "Office of the Dead dancing devils"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 3719,
+      "height": 5000
+    },
+    "master_longest_dimension_cap": 4174,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Blue and rose layered flower topped by a folded gray petal, with three long green leaves on its worn upright stem. Part of the Cleveland 1524 Psalter and Prayerbook set.",
+    "categories": [
+      "botanical",
+      "floral"
+    ],
+    "subjects": [
+      "flower",
+      "leaf",
+      "stem"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "blue",
+      "pink",
+      "gray",
+      "green",
+      "brown"
+    ],
+    "composition": "standalone",
+    "name": "blue-rose-and-gray-flower-on-long-green-stem",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "cma-1999-136-b",
+    "png": "png/blue-rose-and-gray-flower-on-long-green-stem.png",
+    "webp": "webp/blue-rose-and-gray-flower-on-long-green-stem.webp",
+    "width": 1121,
+    "height": 3839,
+    "png_bytes": 4000666,
+    "webp_bytes": 2650928,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/blue-rose-and-gray-flower-on-long-green-stem.png",
+        "webp": "webp/128/blue-rose-and-gray-flower-on-long-green-stem.webp",
+        "width": 37,
+        "height": 128,
+        "png_bytes": 10297,
+        "webp_bytes": 8722
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/blue-rose-and-gray-flower-on-long-green-stem.png",
+        "webp": "webp/256/blue-rose-and-gray-flower-on-long-green-stem.webp",
+        "width": 75,
+        "height": 256,
+        "png_bytes": 32714,
+        "webp_bytes": 25928
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/blue-rose-and-gray-flower-on-long-green-stem.png",
+        "webp": "webp/512/blue-rose-and-gray-flower-on-long-green-stem.webp",
+        "width": 150,
+        "height": 512,
+        "png_bytes": 108930,
+        "webp_bytes": 83176
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/blue-rose-and-gray-flower-on-long-green-stem.png",
+        "webp": "webp/768/blue-rose-and-gray-flower-on-long-green-stem.webp",
+        "width": 224,
+        "height": 768,
+        "png_bytes": 225684,
+        "webp_bytes": 170254
+      }
+    ],
+    "derivation": "native-source-extraction",
+    "provenance": {
+      "institution": "Cleveland Museum of Art",
+      "title": "Leaf from a Psalter and Prayerbook: Ornamental Border with Carnations, a Thistle, and a Cook Ladling Soup (verso)",
+      "object_identifier": "1999.136.b",
+      "date": "c. 1524",
+      "record_url": "https://clevelandart.org/art/1999.136.b",
+      "image_rights": "CC0; share_license_status=CC0",
+      "rights_url": "https://www.clevelandart.org/open-access",
+      "source_sha256": "64fd45e2044d037b0d4576e9b69042250e901d07df8333844d1032718804f087",
+      "image_url": "https://openaccess-cdn.clevelandart.org/1999.136.b/1999.136.b_full.tif",
+      "method": "native-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original independent specimen with printed plate rules and page removed. AI-assisted extraction remains approximate; source bounds, actual native subject cap, original and exact prompt retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "cleveland-1524-psalter-prayerbook",
+        "name": "Cleveland 1524 Psalter and Prayerbook"
+      },
+      {
+        "id": "cma-1999-136-b-set",
+        "name": "Leaf from a Psalter and Prayerbook: Ornamental Border with Carnations, a Thistle, and a Cook Ladling Soup (verso) (cma-1999-136-b)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 8837,
+      "height": 10616
+    },
+    "master_longest_dimension_cap": 3839,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Two deep blue folded leaves attached to crossing curved blue stems. Part of the Cleveland 1524 Psalter and Prayerbook set.",
+    "categories": [
+      "botanical",
+      "floral"
+    ],
+    "subjects": [
+      "leaf",
+      "stem"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "blue",
+      "gray",
+      "brown"
+    ],
+    "composition": "standalone",
+    "name": "crossed-blue-leaf-pair",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "cma-1999-136-b",
+    "png": "png/crossed-blue-leaf-pair.png",
+    "webp": "webp/crossed-blue-leaf-pair.webp",
+    "width": 1216,
+    "height": 451,
+    "png_bytes": 502423,
+    "webp_bytes": 334598,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/crossed-blue-leaf-pair.png",
+        "webp": "webp/128/crossed-blue-leaf-pair.webp",
+        "width": 128,
+        "height": 47,
+        "png_bytes": 10195,
+        "webp_bytes": 8402
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/crossed-blue-leaf-pair.png",
+        "webp": "webp/256/crossed-blue-leaf-pair.webp",
+        "width": 256,
+        "height": 95,
+        "png_bytes": 33577,
+        "webp_bytes": 26292
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/crossed-blue-leaf-pair.png",
+        "webp": "webp/512/crossed-blue-leaf-pair.webp",
+        "width": 512,
+        "height": 190,
+        "png_bytes": 114492,
+        "webp_bytes": 84330
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/crossed-blue-leaf-pair.png",
+        "webp": "webp/768/crossed-blue-leaf-pair.webp",
+        "width": 768,
+        "height": 285,
+        "png_bytes": 232462,
+        "webp_bytes": 169598
+      }
+    ],
+    "derivation": "native-source-extraction",
+    "provenance": {
+      "institution": "Cleveland Museum of Art",
+      "title": "Leaf from a Psalter and Prayerbook: Ornamental Border with Carnations, a Thistle, and a Cook Ladling Soup (verso)",
+      "object_identifier": "1999.136.b",
+      "date": "c. 1524",
+      "record_url": "https://clevelandart.org/art/1999.136.b",
+      "image_rights": "CC0; share_license_status=CC0",
+      "rights_url": "https://www.clevelandart.org/open-access",
+      "source_sha256": "64fd45e2044d037b0d4576e9b69042250e901d07df8333844d1032718804f087",
+      "image_url": "https://openaccess-cdn.clevelandart.org/1999.136.b/1999.136.b_full.tif",
+      "method": "native-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original independent specimen with printed plate rules and page removed. AI-assisted extraction remains approximate; source bounds, actual native subject cap, original and exact prompt retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "cleveland-1524-psalter-prayerbook",
+        "name": "Cleveland 1524 Psalter and Prayerbook"
+      },
+      {
+        "id": "cma-1999-136-b-set",
+        "name": "Leaf from a Psalter and Prayerbook: Ornamental Border with Carnations, a Thistle, and a Cook Ladling Soup (verso) (cma-1999-136-b)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 8837,
+      "height": 10616
+    },
+    "master_longest_dimension_cap": 1216,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Two upright blue leaves on crossing curved stems. Part of the Cleveland 1524 Psalter and Prayerbook set.",
+    "categories": [
+      "botanical",
+      "floral"
+    ],
+    "subjects": [
+      "leaf",
+      "stem"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "blue",
+      "gray",
+      "brown"
+    ],
+    "composition": "standalone",
+    "name": "crossed-upright-blue-leaf-pair",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "cma-1999-136-b",
+    "png": "png/crossed-upright-blue-leaf-pair.png",
+    "webp": "webp/crossed-upright-blue-leaf-pair.webp",
+    "width": 493,
+    "height": 1309,
+    "png_bytes": 515178,
+    "webp_bytes": 327820,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/crossed-upright-blue-leaf-pair.png",
+        "webp": "webp/128/crossed-upright-blue-leaf-pair.webp",
+        "width": 48,
+        "height": 128,
+        "png_bytes": 9747,
+        "webp_bytes": 7876
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/crossed-upright-blue-leaf-pair.png",
+        "webp": "webp/256/crossed-upright-blue-leaf-pair.webp",
+        "width": 96,
+        "height": 256,
+        "png_bytes": 30660,
+        "webp_bytes": 23280
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/crossed-upright-blue-leaf-pair.png",
+        "webp": "webp/512/crossed-upright-blue-leaf-pair.webp",
+        "width": 193,
+        "height": 512,
+        "png_bytes": 102567,
+        "webp_bytes": 73742
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/crossed-upright-blue-leaf-pair.png",
+        "webp": "webp/768/crossed-upright-blue-leaf-pair.webp",
+        "width": 289,
+        "height": 768,
+        "png_bytes": 206584,
+        "webp_bytes": 139034
+      }
+    ],
+    "derivation": "native-source-extraction",
+    "provenance": {
+      "institution": "Cleveland Museum of Art",
+      "title": "Leaf from a Psalter and Prayerbook: Ornamental Border with Carnations, a Thistle, and a Cook Ladling Soup (verso)",
+      "object_identifier": "1999.136.b",
+      "date": "c. 1524",
+      "record_url": "https://clevelandart.org/art/1999.136.b",
+      "image_rights": "CC0; share_license_status=CC0",
+      "rights_url": "https://www.clevelandart.org/open-access",
+      "source_sha256": "64fd45e2044d037b0d4576e9b69042250e901d07df8333844d1032718804f087",
+      "image_url": "https://openaccess-cdn.clevelandart.org/1999.136.b/1999.136.b_full.tif",
+      "method": "native-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original independent specimen with printed plate rules and page removed. AI-assisted extraction remains approximate; source bounds, actual native subject cap, original and exact prompt retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "cleveland-1524-psalter-prayerbook",
+        "name": "Cleveland 1524 Psalter and Prayerbook"
+      },
+      {
+        "id": "cma-1999-136-b-set",
+        "name": "Leaf from a Psalter and Prayerbook: Ornamental Border with Carnations, a Thistle, and a Cook Ladling Soup (verso) (cma-1999-136-b)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 8837,
+      "height": 10616
+    },
+    "master_longest_dimension_cap": 1309,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Two long gray leaves on crossing curved gray stems. Part of the Cleveland 1524 Psalter and Prayerbook set.",
+    "categories": [
+      "botanical"
+    ],
+    "subjects": [
+      "leaf",
+      "stem"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "gray",
+      "brown"
+    ],
+    "composition": "standalone",
+    "name": "crossed-upright-gray-leaf-pair",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "cma-1999-136-b",
+    "png": "png/crossed-upright-gray-leaf-pair.png",
+    "webp": "webp/crossed-upright-gray-leaf-pair.webp",
+    "width": 511,
+    "height": 1451,
+    "png_bytes": 606731,
+    "webp_bytes": 382124,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/crossed-upright-gray-leaf-pair.png",
+        "webp": "webp/128/crossed-upright-gray-leaf-pair.webp",
+        "width": 45,
+        "height": 128,
+        "png_bytes": 9622,
+        "webp_bytes": 7152
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/crossed-upright-gray-leaf-pair.png",
+        "webp": "webp/256/crossed-upright-gray-leaf-pair.webp",
+        "width": 90,
+        "height": 256,
+        "png_bytes": 30817,
+        "webp_bytes": 22318
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/crossed-upright-gray-leaf-pair.png",
+        "webp": "webp/512/crossed-upright-gray-leaf-pair.webp",
+        "width": 180,
+        "height": 512,
+        "png_bytes": 102914,
+        "webp_bytes": 67992
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/crossed-upright-gray-leaf-pair.png",
+        "webp": "webp/768/crossed-upright-gray-leaf-pair.webp",
+        "width": 270,
+        "height": 768,
+        "png_bytes": 206732,
+        "webp_bytes": 136320
+      }
+    ],
+    "derivation": "native-source-extraction",
+    "provenance": {
+      "institution": "Cleveland Museum of Art",
+      "title": "Leaf from a Psalter and Prayerbook: Ornamental Border with Carnations, a Thistle, and a Cook Ladling Soup (verso)",
+      "object_identifier": "1999.136.b",
+      "date": "c. 1524",
+      "record_url": "https://clevelandart.org/art/1999.136.b",
+      "image_rights": "CC0; share_license_status=CC0",
+      "rights_url": "https://www.clevelandart.org/open-access",
+      "source_sha256": "64fd45e2044d037b0d4576e9b69042250e901d07df8333844d1032718804f087",
+      "image_url": "https://openaccess-cdn.clevelandart.org/1999.136.b/1999.136.b_full.tif",
+      "method": "native-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original independent specimen with printed plate rules and page removed. AI-assisted extraction remains approximate; source bounds, actual native subject cap, original and exact prompt retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "cleveland-1524-psalter-prayerbook",
+        "name": "Cleveland 1524 Psalter and Prayerbook"
+      },
+      {
+        "id": "cma-1999-136-b-set",
+        "name": "Leaf from a Psalter and Prayerbook: Ornamental Border with Carnations, a Thistle, and a Cook Ladling Soup (verso) (cma-1999-136-b)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 8837,
+      "height": 10616
+    },
+    "master_longest_dimension_cap": 1451,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Original finite gold-field manuscript line filler with blue and brown discs and diamonds, gold hatching and a dark perimeter. Part of the Office of the Dead dancing devils set.",
+    "categories": [
+      "geometric"
+    ],
+    "subjects": [
+      "disc",
+      "diamond",
+      "bar"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "blue",
+      "gold",
+      "brown",
+      "black"
+    ],
+    "composition": "standalone",
+    "name": "finite-blue-gold-discs-and-diamonds-line-filler",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "cma-2005-206-b",
+    "png": "png/finite-blue-gold-discs-and-diamonds-line-filler.png",
+    "webp": "webp/finite-blue-gold-discs-and-diamonds-line-filler.webp",
+    "width": 715,
+    "height": 127,
+    "png_bytes": 118175,
+    "webp_bytes": 76278,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/finite-blue-gold-discs-and-diamonds-line-filler.png",
+        "webp": "webp/128/finite-blue-gold-discs-and-diamonds-line-filler.webp",
+        "width": 128,
+        "height": 23,
+        "png_bytes": 7071,
+        "webp_bytes": 5962
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/finite-blue-gold-discs-and-diamonds-line-filler.png",
+        "webp": "webp/256/finite-blue-gold-discs-and-diamonds-line-filler.webp",
+        "width": 256,
+        "height": 45,
+        "png_bytes": 21845,
+        "webp_bytes": 17608
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/finite-blue-gold-discs-and-diamonds-line-filler.png",
+        "webp": "webp/512/finite-blue-gold-discs-and-diamonds-line-filler.webp",
+        "width": 512,
+        "height": 91,
+        "png_bytes": 70442,
+        "webp_bytes": 52088
+      }
+    ],
+    "derivation": "native-source-extraction",
+    "provenance": {
+      "institution": "Cleveland Museum of Art",
+      "title": "Leaf from a Book of Hours: Office of the Dead: Two Devils (verso)",
+      "object_identifier": "2005.206.b",
+      "date": "c. 1460",
+      "artist": "Coëtivy Master (French)",
+      "record_url": "https://clevelandart.org/art/2005.206.b",
+      "image_rights": "CC0; share_license_status=CC0",
+      "rights_url": "https://www.clevelandart.org/open-access",
+      "source_sha256": "95460394e5a6c2947fef91eaa47c0dd9d8b038169ba47711ba7c3b4f4a812cf1",
+      "image_url": "https://openaccess-cdn.clevelandart.org/2005.206.b/2005.206.b_full.tif",
+      "method": "native-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original finite strip with hand-drawn spacing. Its six-motif colour-and-shape cycle is identifiable; a separate repeating unit is being prepared. Gold fields and brown, blue and black paint are integral; exterior parchment is transparent.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "cma-2005-206-b-set",
+        "name": "Office of the Dead dancing devils"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 3719,
+      "height": 5000
+    },
+    "master_longest_dimension_cap": 715,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Original finite gold-field manuscript line filler with blue and brown discs and diamonds, gold hatching and a dark perimeter. Part of the Office of the Dead angel and devil set.",
+    "categories": [
+      "geometric"
+    ],
+    "subjects": [
+      "disc",
+      "diamond",
+      "bar"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "blue",
+      "gold",
+      "brown",
+      "black"
+    ],
+    "composition": "standalone",
+    "name": "finite-blue-gold-discs-and-paired-diamonds-line-filler",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "cma-2005-206-a",
+    "png": "png/finite-blue-gold-discs-and-paired-diamonds-line-filler.png",
+    "webp": "webp/finite-blue-gold-discs-and-paired-diamonds-line-filler.webp",
+    "width": 950,
+    "height": 136,
+    "png_bytes": 158402,
+    "webp_bytes": 98124,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/finite-blue-gold-discs-and-paired-diamonds-line-filler.png",
+        "webp": "webp/128/finite-blue-gold-discs-and-paired-diamonds-line-filler.webp",
+        "width": 128,
+        "height": 18,
+        "png_bytes": 5391,
+        "webp_bytes": 4690
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/finite-blue-gold-discs-and-paired-diamonds-line-filler.png",
+        "webp": "webp/256/finite-blue-gold-discs-and-paired-diamonds-line-filler.webp",
+        "width": 256,
+        "height": 37,
+        "png_bytes": 17864,
+        "webp_bytes": 14588
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/finite-blue-gold-discs-and-paired-diamonds-line-filler.png",
+        "webp": "webp/512/finite-blue-gold-discs-and-paired-diamonds-line-filler.webp",
+        "width": 512,
+        "height": 73,
+        "png_bytes": 57661,
+        "webp_bytes": 44186
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/finite-blue-gold-discs-and-paired-diamonds-line-filler.png",
+        "webp": "webp/768/finite-blue-gold-discs-and-paired-diamonds-line-filler.webp",
+        "width": 768,
+        "height": 110,
+        "png_bytes": 114683,
+        "webp_bytes": 85180
+      }
+    ],
+    "derivation": "native-source-extraction",
+    "provenance": {
+      "institution": "Cleveland Museum of Art",
+      "title": "Leaf from a Book of Hours: Office of the Dead: Angel Chasing a Devil (recto)",
+      "object_identifier": "2005.206.a",
+      "date": "c. 1460",
+      "artist": "Coëtivy Master (French)",
+      "record_url": "https://clevelandart.org/art/2005.206.a",
+      "image_rights": "CC0; share_license_status=CC0",
+      "rights_url": "https://www.clevelandart.org/open-access",
+      "source_sha256": "3f5adfecfe574825b8e47db6e3b7975029c48443187a5b1b888befc893dd618c",
+      "image_url": "https://openaccess-cdn.clevelandart.org/2005.206.a/2005.206.a_full.tif",
+      "method": "native-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original finite strip with hand-drawn spacing. Its six-motif colour-and-shape cycle is identifiable; a separate repeating unit is being prepared. Gold fields and brown, blue and black paint are integral; exterior parchment is transparent.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "cma-2005-206-a-set",
+        "name": "Office of the Dead angel and devil"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 3635,
+      "height": 5000
+    },
+    "master_longest_dimension_cap": 950,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Original finite gold and blue acanthus-wave manuscript line filler with its dark perimeter and painted gold field. Part of the Office of the Dead angel and devil set.",
+    "categories": [
+      "floral"
+    ],
+    "subjects": [
+      "leaf",
+      "wave",
+      "bar"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "blue",
+      "gold",
+      "brown",
+      "black"
+    ],
+    "composition": "standalone",
+    "name": "finite-gold-foliate-wave-on-blue-line-filler",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "cma-2005-206-a",
+    "png": "png/finite-gold-foliate-wave-on-blue-line-filler.png",
+    "webp": "webp/finite-gold-foliate-wave-on-blue-line-filler.webp",
+    "width": 552,
+    "height": 142,
+    "png_bytes": 97976,
+    "webp_bytes": 61032,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/finite-gold-foliate-wave-on-blue-line-filler.png",
+        "webp": "webp/128/finite-gold-foliate-wave-on-blue-line-filler.webp",
+        "width": 128,
+        "height": 33,
+        "png_bytes": 8845,
+        "webp_bytes": 7226
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/finite-gold-foliate-wave-on-blue-line-filler.png",
+        "webp": "webp/256/finite-gold-foliate-wave-on-blue-line-filler.webp",
+        "width": 256,
+        "height": 66,
+        "png_bytes": 28319,
+        "webp_bytes": 22106
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/finite-gold-foliate-wave-on-blue-line-filler.png",
+        "webp": "webp/512/finite-gold-foliate-wave-on-blue-line-filler.webp",
+        "width": 512,
+        "height": 132,
+        "png_bytes": 89934,
+        "webp_bytes": 66158
+      }
+    ],
+    "derivation": "native-source-extraction",
+    "provenance": {
+      "institution": "Cleveland Museum of Art",
+      "title": "Leaf from a Book of Hours: Office of the Dead: Angel Chasing a Devil (recto)",
+      "object_identifier": "2005.206.a",
+      "date": "c. 1460",
+      "artist": "Coëtivy Master (French)",
+      "record_url": "https://clevelandart.org/art/2005.206.a",
+      "image_rights": "CC0; share_license_status=CC0",
+      "rights_url": "https://www.clevelandart.org/open-access",
+      "source_sha256": "3f5adfecfe574825b8e47db6e3b7975029c48443187a5b1b888befc893dd618c",
+      "image_url": "https://openaccess-cdn.clevelandart.org/2005.206.a/2005.206.a_full.tif",
+      "method": "native-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "One finite foliate wave pair. No complete repeating foliate cycle is established by this short source. Original gold and blue painted fields are integral; exterior parchment is transparent.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "cma-2005-206-a-set",
+        "name": "Office of the Dead angel and devil"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 3635,
+      "height": 5000
+    },
+    "master_longest_dimension_cap": 552,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Finite hand-painted gold foliate wave on a blue and red text-line filler. Part of the Ape Fishing pond ornaments set.",
+    "categories": [
+      "floral",
+      "scrollwork"
+    ],
+    "subjects": [
+      "leaf",
+      "wave",
+      "band",
+      "line"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "blue",
+      "red",
+      "gold"
+    ],
+    "composition": "single-ornament",
+    "name": "finite-gold-foliate-wave-on-blue-red-line-filler",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "cma-2006-13-b",
+    "png": "png/finite-gold-foliate-wave-on-blue-red-line-filler.png",
+    "webp": "webp/finite-gold-foliate-wave-on-blue-red-line-filler.webp",
+    "width": 633,
+    "height": 128,
+    "png_bytes": 95887,
+    "webp_bytes": 64786,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/finite-gold-foliate-wave-on-blue-red-line-filler.png",
+        "webp": "webp/128/finite-gold-foliate-wave-on-blue-red-line-filler.webp",
+        "width": 128,
+        "height": 26,
+        "png_bytes": 7292,
+        "webp_bytes": 6346
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/finite-gold-foliate-wave-on-blue-red-line-filler.png",
+        "webp": "webp/256/finite-gold-foliate-wave-on-blue-red-line-filler.webp",
+        "width": 256,
+        "height": 52,
+        "png_bytes": 23258,
+        "webp_bytes": 19440
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/finite-gold-foliate-wave-on-blue-red-line-filler.png",
+        "webp": "webp/512/finite-gold-foliate-wave-on-blue-red-line-filler.webp",
+        "width": 512,
+        "height": 104,
+        "png_bytes": 72245,
+        "webp_bytes": 54608
+      }
+    ],
+    "derivation": "native-source-extraction",
+    "provenance": {
+      "institution": "Cleveland Museum of Art",
+      "title": "Leaf from a Book of Hours: Ape Fishing (verso)",
+      "object_identifier": "2006.13.b",
+      "date": "c. 1500–1510",
+      "record_url": "https://clevelandart.org/art/2006.13.b",
+      "image_rights": "CC0; share_license_status=CC0",
+      "rights_url": "https://www.clevelandart.org/open-access",
+      "source_sha256": "322f38d25a86c70b91250334aa623d87403eaf9f2b3a4544e69a80de17ba733f",
+      "image_url": "https://openaccess-cdn.clevelandart.org/2006.13.b/2006.13.b_full.tif",
+      "method": "native-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Complete finite original painted line filler, including its original gold curl below the blue field; its blue and red grounds are part of the artwork and remain opaque with their original gold decoration. Exterior parchment and neighboring text removed. The source supplies one paired color sequence; no additional repeat period or frame corners inferred.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "cma-2006-13-b-set",
+        "name": "Ape Fishing pond ornaments"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 3538,
+      "height": 5000
+    },
+    "master_longest_dimension_cap": 633,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Fixed gilt rectangular pond frame with paired columns, spiral scroll capitals and feet, a thin original upper connecting bar and a lower plinth. Part of the Ape Fishing pond ornaments set.",
+    "categories": [
+      "geometric"
+    ],
+    "subjects": [
+      "column",
+      "capital",
+      "frame"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "gold",
+      "brown"
+    ],
+    "composition": "standalone",
+    "name": "fixed-gold-columned-pond-frame-with-scroll-capitals",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "cma-2006-13-b",
+    "png": "png/fixed-gold-columned-pond-frame-with-scroll-capitals.png",
+    "webp": "webp/fixed-gold-columned-pond-frame-with-scroll-capitals.webp",
+    "width": 2685,
+    "height": 902,
+    "png_bytes": 1203665,
+    "webp_bytes": 750400,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/fixed-gold-columned-pond-frame-with-scroll-capitals.png",
+        "webp": "webp/128/fixed-gold-columned-pond-frame-with-scroll-capitals.webp",
+        "width": 128,
+        "height": 43,
+        "png_bytes": 7112,
+        "webp_bytes": 6234
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/fixed-gold-columned-pond-frame-with-scroll-capitals.png",
+        "webp": "webp/256/fixed-gold-columned-pond-frame-with-scroll-capitals.webp",
+        "width": 256,
+        "height": 86,
+        "png_bytes": 22706,
+        "webp_bytes": 18678
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/fixed-gold-columned-pond-frame-with-scroll-capitals.png",
+        "webp": "webp/512/fixed-gold-columned-pond-frame-with-scroll-capitals.webp",
+        "width": 512,
+        "height": 172,
+        "png_bytes": 76329,
+        "webp_bytes": 61058
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/fixed-gold-columned-pond-frame-with-scroll-capitals.png",
+        "webp": "webp/768/fixed-gold-columned-pond-frame-with-scroll-capitals.webp",
+        "width": 768,
+        "height": 258,
+        "png_bytes": 155929,
+        "webp_bytes": 123686
+      }
+    ],
+    "derivation": "native-source-extraction",
+    "provenance": {
+      "institution": "Cleveland Museum of Art",
+      "title": "Leaf from a Book of Hours: Ape Fishing (verso)",
+      "object_identifier": "2006.13.b",
+      "date": "c. 1500–1510",
+      "record_url": "https://clevelandart.org/art/2006.13.b",
+      "image_rights": "CC0; share_license_status=CC0",
+      "rights_url": "https://www.clevelandart.org/open-access",
+      "source_sha256": "322f38d25a86c70b91250334aa623d87403eaf9f2b3a4544e69a80de17ba733f",
+      "image_url": "https://openaccess-cdn.clevelandart.org/2006.13.b/2006.13.b_full.tif",
+      "method": "native-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Whole original architectural frame with the pond scene and exterior page removed. Both original horizontal connecting bars and unequal scroll columns remain in their native positions. Finite decoration; no repeat, synthesized corners or SVG redraw.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "cma-2006-13-b-set",
+        "name": "Ape Fishing pond ornaments"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 3538,
+      "height": 5000
+    },
+    "master_longest_dimension_cap": 2685,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Four rounded rose petals and green calyx on a long curved stem with two broad green leaves. Part of the Cleveland 1524 Psalter and Prayerbook set.",
+    "categories": [
+      "botanical",
+      "floral"
+    ],
+    "subjects": [
+      "flower",
+      "leaf",
+      "stem"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "pink",
+      "red",
+      "green",
+      "brown"
+    ],
+    "composition": "standalone",
+    "name": "four-rose-petals-with-green-calyx-and-two-leaves",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "cma-1999-136-b",
+    "png": "png/four-rose-petals-with-green-calyx-and-two-leaves.png",
+    "webp": "webp/four-rose-petals-with-green-calyx-and-two-leaves.webp",
+    "width": 1068,
+    "height": 2188,
+    "png_bytes": 2332576,
+    "webp_bytes": 1481770,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/four-rose-petals-with-green-calyx-and-two-leaves.png",
+        "webp": "webp/128/four-rose-petals-with-green-calyx-and-two-leaves.webp",
+        "width": 62,
+        "height": 128,
+        "png_bytes": 15040,
+        "webp_bytes": 12650
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/four-rose-petals-with-green-calyx-and-two-leaves.png",
+        "webp": "webp/256/four-rose-petals-with-green-calyx-and-two-leaves.webp",
+        "width": 125,
+        "height": 256,
+        "png_bytes": 49661,
+        "webp_bytes": 37940
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/four-rose-petals-with-green-calyx-and-two-leaves.png",
+        "webp": "webp/512/four-rose-petals-with-green-calyx-and-two-leaves.webp",
+        "width": 250,
+        "height": 512,
+        "png_bytes": 174346,
+        "webp_bytes": 123364
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/four-rose-petals-with-green-calyx-and-two-leaves.png",
+        "webp": "webp/768/four-rose-petals-with-green-calyx-and-two-leaves.webp",
+        "width": 375,
+        "height": 768,
+        "png_bytes": 368161,
+        "webp_bytes": 250920
+      }
+    ],
+    "derivation": "native-source-extraction",
+    "provenance": {
+      "institution": "Cleveland Museum of Art",
+      "title": "Leaf from a Psalter and Prayerbook: Ornamental Border with Carnations, a Thistle, and a Cook Ladling Soup (verso)",
+      "object_identifier": "1999.136.b",
+      "date": "c. 1524",
+      "record_url": "https://clevelandart.org/art/1999.136.b",
+      "image_rights": "CC0; share_license_status=CC0",
+      "rights_url": "https://www.clevelandart.org/open-access",
+      "source_sha256": "64fd45e2044d037b0d4576e9b69042250e901d07df8333844d1032718804f087",
+      "image_url": "https://openaccess-cdn.clevelandart.org/1999.136.b/1999.136.b_full.tif",
+      "method": "native-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "The complete original connected flower/leaf/stem decoration retains native source RGB and proportions. Alpha-only AI ownership guide and exact prompt retained; actual reflective gilt page field cleared at the inspected exterior. Pale painted surfaces and worn pigment remain opaque. Source-textured PNG retained; no vector or repeat inferred.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "cleveland-1524-psalter-prayerbook",
+        "name": "Cleveland 1524 Psalter and Prayerbook"
+      },
+      {
+        "id": "cma-1999-136-b-set",
+        "name": "Leaf from a Psalter and Prayerbook: Ornamental Border with Carnations, a Thistle, and a Cook Ladling Soup (verso) (cma-1999-136-b)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 8837,
+      "height": 10616
+    },
+    "master_longest_dimension_cap": 2188,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Small gold leaf scroll with two curved stems and hooked leaf lobes, from an initial counter. Part of the Cleveland 1524 Psalter and Prayerbook set.",
+    "categories": [
+      "floral",
+      "scrollwork"
+    ],
+    "subjects": [
+      "leaf",
+      "scroll"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "gold"
+    ],
+    "composition": "standalone",
+    "name": "gold-curled-leaf-scroll-from-lower-initial",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "cma-1999-136-b",
+    "png": "png/gold-curled-leaf-scroll-from-lower-initial.png",
+    "webp": "webp/gold-curled-leaf-scroll-from-lower-initial.webp",
+    "width": 321,
+    "height": 241,
+    "png_bytes": 86787,
+    "webp_bytes": 59604,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/gold-curled-leaf-scroll-from-lower-initial.png",
+        "webp": "webp/128/gold-curled-leaf-scroll-from-lower-initial.webp",
+        "width": 128,
+        "height": 96,
+        "png_bytes": 18475,
+        "webp_bytes": 13200
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/gold-curled-leaf-scroll-from-lower-initial.png",
+        "webp": "webp/256/gold-curled-leaf-scroll-from-lower-initial.webp",
+        "width": 256,
+        "height": 192,
+        "png_bytes": 61084,
+        "webp_bytes": 46440
+      }
+    ],
+    "derivation": "native-source-extraction",
+    "provenance": {
+      "institution": "Cleveland Museum of Art",
+      "title": "Leaf from a Psalter and Prayerbook: Ornamental Border with Carnations, a Thistle, and a Cook Ladling Soup (verso)",
+      "object_identifier": "1999.136.b",
+      "date": "c. 1524",
+      "record_url": "https://clevelandart.org/art/1999.136.b",
+      "image_rights": "CC0; share_license_status=CC0",
+      "rights_url": "https://www.clevelandart.org/open-access",
+      "source_sha256": "64fd45e2044d037b0d4576e9b69042250e901d07df8333844d1032718804f087",
+      "image_url": "https://openaccess-cdn.clevelandart.org/1999.136.b/1999.136.b_full.tif",
+      "method": "native-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Independent gold foliate counter decoration extracted from a decorated initial. The letter and flat painted field are excluded. Original paint wear and source-visible clipped stem contacts remain; no missing stem paint restored. Original native RGB and proportions retained; AI alpha used only as a broad ownership guide, then fitted to inspected original pigment.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "cleveland-1524-psalter-prayerbook",
+        "name": "Cleveland 1524 Psalter and Prayerbook"
+      },
+      {
+        "id": "cma-1999-136-b-set",
+        "name": "Leaf from a Psalter and Prayerbook: Ornamental Border with Carnations, a Thistle, and a Cook Ladling Soup (verso) (cma-1999-136-b)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 8837,
+      "height": 10616
+    },
+    "master_longest_dimension_cap": 321,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Gold curled foliate vine with pointed leaves and spiral ends, separated from its round initial. Part of the Cleveland 1524 Psalter and Prayerbook set.",
+    "categories": [
+      "floral",
+      "scrollwork"
+    ],
+    "subjects": [
+      "vine",
+      "leaf",
+      "scroll"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "gold"
+    ],
+    "composition": "standalone",
+    "name": "gold-curled-leaf-vine-from-round-initial",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "cma-1999-136-b",
+    "png": "png/gold-curled-leaf-vine-from-round-initial.png",
+    "webp": "webp/gold-curled-leaf-vine-from-round-initial.webp",
+    "width": 505,
+    "height": 639,
+    "png_bytes": 267575,
+    "webp_bytes": 189726,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/gold-curled-leaf-vine-from-round-initial.png",
+        "webp": "webp/128/gold-curled-leaf-vine-from-round-initial.webp",
+        "width": 101,
+        "height": 128,
+        "png_bytes": 18481,
+        "webp_bytes": 12060
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/gold-curled-leaf-vine-from-round-initial.png",
+        "webp": "webp/256/gold-curled-leaf-vine-from-round-initial.webp",
+        "width": 202,
+        "height": 256,
+        "png_bytes": 56761,
+        "webp_bytes": 39404
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/gold-curled-leaf-vine-from-round-initial.png",
+        "webp": "webp/512/gold-curled-leaf-vine-from-round-initial.webp",
+        "width": 405,
+        "height": 512,
+        "png_bytes": 188834,
+        "webp_bytes": 145936
+      }
+    ],
+    "derivation": "native-source-extraction",
+    "provenance": {
+      "institution": "Cleveland Museum of Art",
+      "title": "Leaf from a Psalter and Prayerbook: Ornamental Border with Carnations, a Thistle, and a Cook Ladling Soup (verso)",
+      "object_identifier": "1999.136.b",
+      "date": "c. 1524",
+      "record_url": "https://clevelandart.org/art/1999.136.b",
+      "image_rights": "CC0; share_license_status=CC0",
+      "rights_url": "https://www.clevelandart.org/open-access",
+      "source_sha256": "64fd45e2044d037b0d4576e9b69042250e901d07df8333844d1032718804f087",
+      "image_url": "https://openaccess-cdn.clevelandart.org/1999.136.b/1999.136.b_full.tif",
+      "method": "native-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Independent gold foliate counter decoration extracted from a decorated initial. The letter and flat painted field are excluded. Original paint wear and source-visible clipped stem contacts remain; no missing stem paint restored. Original native RGB and proportions retained; AI alpha used only as a broad ownership guide, then fitted to inspected original pigment.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "cleveland-1524-psalter-prayerbook",
+        "name": "Cleveland 1524 Psalter and Prayerbook"
+      },
+      {
+        "id": "cma-1999-136-b-set",
+        "name": "Leaf from a Psalter and Prayerbook: Ornamental Border with Carnations, a Thistle, and a Cook Ladling Soup (verso) (cma-1999-136-b)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 8837,
+      "height": 10616
+    },
+    "master_longest_dimension_cap": 639,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Small original gold curled pointed leaf independently usable from an initial counter; no letter. Part of the Cleveland 1524 Psalter and Prayerbook set.",
+    "categories": [
+      "floral"
+    ],
+    "subjects": [
+      "leaf"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "gold"
+    ],
+    "composition": "single-ornament",
+    "name": "gold-curled-pointed-leaf-from-initial-counter",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "cma-1999-136-b",
+    "png": "png/gold-curled-pointed-leaf-from-initial-counter.png",
+    "webp": "webp/gold-curled-pointed-leaf-from-initial-counter.webp",
+    "width": 64,
+    "height": 93,
+    "png_bytes": 7484,
+    "webp_bytes": 5216,
+    "variants": [],
+    "derivation": "native-source-extraction",
+    "provenance": {
+      "institution": "Cleveland Museum of Art",
+      "title": "Leaf from a Psalter and Prayerbook: Ornamental Border with Carnations, a Thistle, and a Cook Ladling Soup (verso)",
+      "object_identifier": "1999.136.b",
+      "date": "c. 1524",
+      "record_url": "https://clevelandart.org/art/1999.136.b",
+      "image_rights": "CC0; share_license_status=CC0",
+      "rights_url": "https://www.clevelandart.org/open-access",
+      "source_sha256": "64fd45e2044d037b0d4576e9b69042250e901d07df8333844d1032718804f087",
+      "image_url": "https://openaccess-cdn.clevelandart.org/1999.136.b/1999.136.b_full.tif",
+      "method": "native-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Source-only original gold ornament; no glyph, invented tip or upscaling.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "cleveland-1524-psalter-prayerbook",
+        "name": "Cleveland 1524 Psalter and Prayerbook"
+      },
+      {
+        "id": "cma-1999-136-b-set",
+        "name": "Leaf from a Psalter and Prayerbook: Ornamental Border with Carnations, a Thistle, and a Cook Ladling Soup (verso) (cma-1999-136-b)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 8837,
+      "height": 10616
+    },
+    "master_longest_dimension_cap": 93,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Small original gold five petal flower independently usable from an initial counter; no letter. Part of the Cleveland 1524 Psalter and Prayerbook set.",
+    "categories": [
+      "floral"
+    ],
+    "subjects": [
+      "flower"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "gold"
+    ],
+    "composition": "single-ornament",
+    "name": "gold-five-petal-flower-from-initial-counter",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "cma-1999-136-b",
+    "png": "png/gold-five-petal-flower-from-initial-counter.png",
+    "webp": "webp/gold-five-petal-flower-from-initial-counter.webp",
+    "width": 171,
+    "height": 176,
+    "png_bytes": 29373,
+    "webp_bytes": 20606,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/gold-five-petal-flower-from-initial-counter.png",
+        "webp": "webp/128/gold-five-petal-flower-from-initial-counter.webp",
+        "width": 124,
+        "height": 128,
+        "png_bytes": 18350,
+        "webp_bytes": 14118
+      }
+    ],
+    "derivation": "native-source-extraction",
+    "provenance": {
+      "institution": "Cleveland Museum of Art",
+      "title": "Leaf from a Psalter and Prayerbook: Ornamental Border with Carnations, a Thistle, and a Cook Ladling Soup (verso)",
+      "object_identifier": "1999.136.b",
+      "date": "c. 1524",
+      "record_url": "https://clevelandart.org/art/1999.136.b",
+      "image_rights": "CC0; share_license_status=CC0",
+      "rights_url": "https://www.clevelandart.org/open-access",
+      "source_sha256": "64fd45e2044d037b0d4576e9b69042250e901d07df8333844d1032718804f087",
+      "image_url": "https://openaccess-cdn.clevelandart.org/1999.136.b/1999.136.b_full.tif",
+      "method": "native-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Source-only original gold ornament; no glyph, invented tip or upscaling.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "cleveland-1524-psalter-prayerbook",
+        "name": "Cleveland 1524 Psalter and Prayerbook"
+      },
+      {
+        "id": "cma-1999-136-b-set",
+        "name": "Leaf from a Psalter and Prayerbook: Ornamental Border with Carnations, a Thistle, and a Cook Ladling Soup (verso) (cma-1999-136-b)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 8837,
+      "height": 10616
+    },
+    "master_longest_dimension_cap": 176,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Small original gold three lobed leaf independently usable from an initial counter; no letter. Part of the Cleveland 1524 Psalter and Prayerbook set.",
+    "categories": [
+      "floral"
+    ],
+    "subjects": [
+      "leaf"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "gold"
+    ],
+    "composition": "single-ornament",
+    "name": "gold-three-lobed-leaf-from-initial-counter",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "cma-1999-136-b",
+    "png": "png/gold-three-lobed-leaf-from-initial-counter.png",
+    "webp": "webp/gold-three-lobed-leaf-from-initial-counter.webp",
+    "width": 145,
+    "height": 122,
+    "png_bytes": 17804,
+    "webp_bytes": 12108,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/gold-three-lobed-leaf-from-initial-counter.png",
+        "webp": "webp/128/gold-three-lobed-leaf-from-initial-counter.webp",
+        "width": 128,
+        "height": 108,
+        "png_bytes": 15086,
+        "webp_bytes": 11932
+      }
+    ],
+    "derivation": "native-source-extraction",
+    "provenance": {
+      "institution": "Cleveland Museum of Art",
+      "title": "Leaf from a Psalter and Prayerbook: Ornamental Border with Carnations, a Thistle, and a Cook Ladling Soup (verso)",
+      "object_identifier": "1999.136.b",
+      "date": "c. 1524",
+      "record_url": "https://clevelandart.org/art/1999.136.b",
+      "image_rights": "CC0; share_license_status=CC0",
+      "rights_url": "https://www.clevelandart.org/open-access",
+      "source_sha256": "64fd45e2044d037b0d4576e9b69042250e901d07df8333844d1032718804f087",
+      "image_url": "https://openaccess-cdn.clevelandart.org/1999.136.b/1999.136.b_full.tif",
+      "method": "native-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Source-only original gold ornament; no glyph, invented tip or upscaling.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "cleveland-1524-psalter-prayerbook",
+        "name": "Cleveland 1524 Psalter and Prayerbook"
+      },
+      {
+        "id": "cma-1999-136-b-set",
+        "name": "Leaf from a Psalter and Prayerbook: Ornamental Border with Carnations, a Thistle, and a Cook Ladling Soup (verso) (cma-1999-136-b)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 8837,
+      "height": 10616
+    },
+    "master_longest_dimension_cap": 145,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Large gray folded bud backed by rose petals on a curving stem with two green leaves. Part of the Cleveland 1524 Psalter and Prayerbook set.",
+    "categories": [
+      "botanical",
+      "floral"
+    ],
+    "subjects": [
+      "flower",
+      "leaf",
+      "stem"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "gray",
+      "pink",
+      "red",
+      "green",
+      "brown"
+    ],
+    "composition": "standalone",
+    "name": "gray-folded-bud-with-rose-petals-and-green-leaves",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "cma-1999-136-b",
+    "png": "png/gray-folded-bud-with-rose-petals-and-green-leaves.png",
+    "webp": "webp/gray-folded-bud-with-rose-petals-and-green-leaves.webp",
+    "width": 1920,
+    "height": 547,
+    "png_bytes": 1068027,
+    "webp_bytes": 692264,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/gray-folded-bud-with-rose-petals-and-green-leaves.png",
+        "webp": "webp/128/gray-folded-bud-with-rose-petals-and-green-leaves.webp",
+        "width": 128,
+        "height": 36,
+        "png_bytes": 8986,
+        "webp_bytes": 7462
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/gray-folded-bud-with-rose-petals-and-green-leaves.png",
+        "webp": "webp/256/gray-folded-bud-with-rose-petals-and-green-leaves.webp",
+        "width": 256,
+        "height": 73,
+        "png_bytes": 29755,
+        "webp_bytes": 23264
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/gray-folded-bud-with-rose-petals-and-green-leaves.png",
+        "webp": "webp/512/gray-folded-bud-with-rose-petals-and-green-leaves.webp",
+        "width": 512,
+        "height": 146,
+        "png_bytes": 104217,
+        "webp_bytes": 76368
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/gray-folded-bud-with-rose-petals-and-green-leaves.png",
+        "webp": "webp/768/gray-folded-bud-with-rose-petals-and-green-leaves.webp",
+        "width": 768,
+        "height": 219,
+        "png_bytes": 218758,
+        "webp_bytes": 149252
+      }
+    ],
+    "derivation": "native-source-extraction",
+    "provenance": {
+      "institution": "Cleveland Museum of Art",
+      "title": "Leaf from a Psalter and Prayerbook: Ornamental Border with Carnations, a Thistle, and a Cook Ladling Soup (verso)",
+      "object_identifier": "1999.136.b",
+      "date": "c. 1524",
+      "record_url": "https://clevelandart.org/art/1999.136.b",
+      "image_rights": "CC0; share_license_status=CC0",
+      "rights_url": "https://www.clevelandart.org/open-access",
+      "source_sha256": "64fd45e2044d037b0d4576e9b69042250e901d07df8333844d1032718804f087",
+      "image_url": "https://openaccess-cdn.clevelandart.org/1999.136.b/1999.136.b_full.tif",
+      "method": "native-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original independent specimen with printed plate rules and page removed. AI-assisted extraction remains approximate; source bounds, actual native subject cap, original and exact prompt retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "cleveland-1524-psalter-prayerbook",
+        "name": "Cleveland 1524 Psalter and Prayerbook"
+      },
+      {
+        "id": "cma-1999-136-b-set",
+        "name": "Leaf from a Psalter and Prayerbook: Ornamental Border with Carnations, a Thistle, and a Cook Ladling Soup (verso) (cma-1999-136-b)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 8837,
+      "height": 10616
+    },
+    "master_longest_dimension_cap": 1920,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Large pleated red flower and smaller rose bud on a branching curved green stem with six leaves. Part of the Cleveland 1524 Psalter and Prayerbook set.",
+    "categories": [
+      "botanical",
+      "floral"
+    ],
+    "subjects": [
+      "flower",
+      "leaf",
+      "stem"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "red",
+      "pink",
+      "green",
+      "brown"
+    ],
+    "composition": "standalone",
+    "name": "large-red-flower-and-small-bud-on-branching-green-stem",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "cma-1999-136-b",
+    "png": "png/large-red-flower-and-small-bud-on-branching-green-stem.png",
+    "webp": "webp/large-red-flower-and-small-bud-on-branching-green-stem.webp",
+    "width": 3373,
+    "height": 1680,
+    "png_bytes": 5434573,
+    "webp_bytes": 3549854,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/large-red-flower-and-small-bud-on-branching-green-stem.png",
+        "webp": "webp/128/large-red-flower-and-small-bud-on-branching-green-stem.webp",
+        "width": 128,
+        "height": 64,
+        "png_bytes": 15752,
+        "webp_bytes": 12772
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/large-red-flower-and-small-bud-on-branching-green-stem.png",
+        "webp": "webp/256/large-red-flower-and-small-bud-on-branching-green-stem.webp",
+        "width": 256,
+        "height": 128,
+        "png_bytes": 52417,
+        "webp_bytes": 39920
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/large-red-flower-and-small-bud-on-branching-green-stem.png",
+        "webp": "webp/512/large-red-flower-and-small-bud-on-branching-green-stem.webp",
+        "width": 512,
+        "height": 255,
+        "png_bytes": 179670,
+        "webp_bytes": 129650
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/large-red-flower-and-small-bud-on-branching-green-stem.png",
+        "webp": "webp/768/large-red-flower-and-small-bud-on-branching-green-stem.webp",
+        "width": 768,
+        "height": 383,
+        "png_bytes": 380997,
+        "webp_bytes": 277344
+      }
+    ],
+    "derivation": "native-source-extraction",
+    "provenance": {
+      "institution": "Cleveland Museum of Art",
+      "title": "Leaf from a Psalter and Prayerbook: Ornamental Border with Carnations, a Thistle, and a Cook Ladling Soup (verso)",
+      "object_identifier": "1999.136.b",
+      "date": "c. 1524",
+      "record_url": "https://clevelandart.org/art/1999.136.b",
+      "image_rights": "CC0; share_license_status=CC0",
+      "rights_url": "https://www.clevelandart.org/open-access",
+      "source_sha256": "64fd45e2044d037b0d4576e9b69042250e901d07df8333844d1032718804f087",
+      "image_url": "https://openaccess-cdn.clevelandart.org/1999.136.b/1999.136.b_full.tif",
+      "method": "native-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original independent specimen with printed plate rules and page removed. AI-assisted extraction remains approximate; source bounds, actual native subject cap, original and exact prompt retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "cleveland-1524-psalter-prayerbook",
+        "name": "Cleveland 1524 Psalter and Prayerbook"
+      },
+      {
+        "id": "cma-1999-136-b-set",
+        "name": "Leaf from a Psalter and Prayerbook: Ornamental Border with Carnations, a Thistle, and a Cook Ladling Soup (verso) (cma-1999-136-b)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 8837,
+      "height": 10616
+    },
+    "master_longest_dimension_cap": 3373,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Pale pleated fan-shaped flower with green pointed sepals and two long green leaves on a curved stem. Part of the Cleveland 1524 Psalter and Prayerbook set.",
+    "categories": [
+      "botanical",
+      "floral"
+    ],
+    "subjects": [
+      "flower",
+      "leaf",
+      "stem"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "cream",
+      "yellow",
+      "green",
+      "brown"
+    ],
+    "composition": "standalone",
+    "name": "pale-pleated-fan-flower-on-curved-green-stem",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "cma-1999-136-b",
+    "png": "png/pale-pleated-fan-flower-on-curved-green-stem.png",
+    "webp": "webp/pale-pleated-fan-flower-on-curved-green-stem.webp",
+    "width": 2718,
+    "height": 1596,
+    "png_bytes": 3353526,
+    "webp_bytes": 2152858,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/pale-pleated-fan-flower-on-curved-green-stem.png",
+        "webp": "webp/128/pale-pleated-fan-flower-on-curved-green-stem.webp",
+        "width": 128,
+        "height": 75,
+        "png_bytes": 14834,
+        "webp_bytes": 11944
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/pale-pleated-fan-flower-on-curved-green-stem.png",
+        "webp": "webp/256/pale-pleated-fan-flower-on-curved-green-stem.webp",
+        "width": 256,
+        "height": 150,
+        "png_bytes": 47533,
+        "webp_bytes": 36346
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/pale-pleated-fan-flower-on-curved-green-stem.png",
+        "webp": "webp/512/pale-pleated-fan-flower-on-curved-green-stem.webp",
+        "width": 512,
+        "height": 301,
+        "png_bytes": 167285,
+        "webp_bytes": 123408
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/pale-pleated-fan-flower-on-curved-green-stem.png",
+        "webp": "webp/768/pale-pleated-fan-flower-on-curved-green-stem.webp",
+        "width": 768,
+        "height": 451,
+        "png_bytes": 353675,
+        "webp_bytes": 244698
+      }
+    ],
+    "derivation": "native-source-extraction",
+    "provenance": {
+      "institution": "Cleveland Museum of Art",
+      "title": "Leaf from a Psalter and Prayerbook: Ornamental Border with Carnations, a Thistle, and a Cook Ladling Soup (verso)",
+      "object_identifier": "1999.136.b",
+      "date": "c. 1524",
+      "record_url": "https://clevelandart.org/art/1999.136.b",
+      "image_rights": "CC0; share_license_status=CC0",
+      "rights_url": "https://www.clevelandart.org/open-access",
+      "source_sha256": "64fd45e2044d037b0d4576e9b69042250e901d07df8333844d1032718804f087",
+      "image_url": "https://openaccess-cdn.clevelandart.org/1999.136.b/1999.136.b_full.tif",
+      "method": "native-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "The complete original connected flower/leaf/stem decoration retains native source RGB and proportions. Alpha-only AI ownership guide and exact prompt retained; actual reflective gilt page field cleared at the inspected exterior. Pale painted surfaces and worn pigment remain opaque. Source-textured PNG retained; no vector or repeat inferred.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "cleveland-1524-psalter-prayerbook",
+        "name": "Cleveland 1524 Psalter and Prayerbook"
+      },
+      {
+        "id": "cma-1999-136-b-set",
+        "name": "Leaf from a Psalter and Prayerbook: Ornamental Border with Carnations, a Thistle, and a Cook Ladling Soup (verso) (cma-1999-136-b)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 8837,
+      "height": 10616
+    },
+    "master_longest_dimension_cap": 2718,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Pointed rose flower with folded gray sepals on a curved green stem with two leaves. Part of the Cleveland 1524 Psalter and Prayerbook set.",
+    "categories": [
+      "botanical",
+      "floral"
+    ],
+    "subjects": [
+      "flower",
+      "leaf",
+      "stem"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "pink",
+      "gray",
+      "green",
+      "brown"
+    ],
+    "composition": "standalone",
+    "name": "pointed-rose-flower-with-gray-sepals-on-green-twig",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "cma-1999-136-b",
+    "png": "png/pointed-rose-flower-with-gray-sepals-on-green-twig.png",
+    "webp": "webp/pointed-rose-flower-with-gray-sepals-on-green-twig.webp",
+    "width": 1676,
+    "height": 590,
+    "png_bytes": 858553,
+    "webp_bytes": 549158,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/pointed-rose-flower-with-gray-sepals-on-green-twig.png",
+        "webp": "webp/128/pointed-rose-flower-with-gray-sepals-on-green-twig.webp",
+        "width": 128,
+        "height": 45,
+        "png_bytes": 9769,
+        "webp_bytes": 8062
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/pointed-rose-flower-with-gray-sepals-on-green-twig.png",
+        "webp": "webp/256/pointed-rose-flower-with-gray-sepals-on-green-twig.webp",
+        "width": 256,
+        "height": 90,
+        "png_bytes": 31928,
+        "webp_bytes": 24710
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/pointed-rose-flower-with-gray-sepals-on-green-twig.png",
+        "webp": "webp/512/pointed-rose-flower-with-gray-sepals-on-green-twig.webp",
+        "width": 512,
+        "height": 180,
+        "png_bytes": 110169,
+        "webp_bytes": 79444
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/pointed-rose-flower-with-gray-sepals-on-green-twig.png",
+        "webp": "webp/768/pointed-rose-flower-with-gray-sepals-on-green-twig.webp",
+        "width": 768,
+        "height": 270,
+        "png_bytes": 227079,
+        "webp_bytes": 160102
+      }
+    ],
+    "derivation": "native-source-extraction",
+    "provenance": {
+      "institution": "Cleveland Museum of Art",
+      "title": "Leaf from a Psalter and Prayerbook: Ornamental Border with Carnations, a Thistle, and a Cook Ladling Soup (verso)",
+      "object_identifier": "1999.136.b",
+      "date": "c. 1524",
+      "record_url": "https://clevelandart.org/art/1999.136.b",
+      "image_rights": "CC0; share_license_status=CC0",
+      "rights_url": "https://www.clevelandart.org/open-access",
+      "source_sha256": "64fd45e2044d037b0d4576e9b69042250e901d07df8333844d1032718804f087",
+      "image_url": "https://openaccess-cdn.clevelandart.org/1999.136.b/1999.136.b_full.tif",
+      "method": "native-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original independent specimen with printed plate rules and page removed. AI-assisted extraction remains approximate; source bounds, actual native subject cap, original and exact prompt retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "cleveland-1524-psalter-prayerbook",
+        "name": "Cleveland 1524 Psalter and Prayerbook"
+      },
+      {
+        "id": "cma-1999-136-b-set",
+        "name": "Leaf from a Psalter and Prayerbook: Ornamental Border with Carnations, a Thistle, and a Cook Ladling Soup (verso) (cma-1999-136-b)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 8837,
+      "height": 10616
+    },
+    "master_longest_dimension_cap": 1676,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Finite top and right L border of red, blue and gold acanthus, green leaves, berries and fine tendrils. Part of the Ape Fishing pond ornaments set.",
+    "categories": [
+      "floral"
+    ],
+    "subjects": [
+      "leaf",
+      "flower",
+      "vine",
+      "border",
+      "berry"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "red",
+      "blue",
+      "gold",
+      "green",
+      "black"
+    ],
+    "composition": "single-ornament",
+    "name": "red-blue-gold-acanthus-and-green-leaf-l-border",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "cma-2006-13-b",
+    "png": "png/red-blue-gold-acanthus-and-green-leaf-l-border.png",
+    "webp": "webp/red-blue-gold-acanthus-and-green-leaf-l-border.webp",
+    "width": 2674,
+    "height": 3484,
+    "png_bytes": 4345201,
+    "webp_bytes": 2807820,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/red-blue-gold-acanthus-and-green-leaf-l-border.png",
+        "webp": "webp/128/red-blue-gold-acanthus-and-green-leaf-l-border.webp",
+        "width": 98,
+        "height": 128,
+        "png_bytes": 14535,
+        "webp_bytes": 12520
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/red-blue-gold-acanthus-and-green-leaf-l-border.png",
+        "webp": "webp/256/red-blue-gold-acanthus-and-green-leaf-l-border.webp",
+        "width": 196,
+        "height": 256,
+        "png_bytes": 49742,
+        "webp_bytes": 39974
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/red-blue-gold-acanthus-and-green-leaf-l-border.png",
+        "webp": "webp/512/red-blue-gold-acanthus-and-green-leaf-l-border.webp",
+        "width": 393,
+        "height": 512,
+        "png_bytes": 168840,
+        "webp_bytes": 131540
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/red-blue-gold-acanthus-and-green-leaf-l-border.png",
+        "webp": "webp/768/red-blue-gold-acanthus-and-green-leaf-l-border.webp",
+        "width": 589,
+        "height": 768,
+        "png_bytes": 343154,
+        "webp_bytes": 272134
+      }
+    ],
+    "derivation": "native-source-extraction",
+    "provenance": {
+      "institution": "Cleveland Museum of Art",
+      "title": "Leaf from a Book of Hours: Ape Fishing (verso)",
+      "object_identifier": "2006.13.b",
+      "date": "c. 1500–1510",
+      "record_url": "https://clevelandart.org/art/2006.13.b",
+      "image_rights": "CC0; share_license_status=CC0",
+      "rights_url": "https://www.clevelandart.org/open-access",
+      "source_sha256": "322f38d25a86c70b91250334aa623d87403eaf9f2b3a4544e69a80de17ba733f",
+      "image_url": "https://openaccess-cdn.clevelandart.org/2006.13.b/2006.13.b_full.tif",
+      "method": "native-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original source-visible independent ornament or contacting figure group. No seamless repeat inferred. Exact original source bounds and extraction prompt retained; no unrelated page letters. Source-derived transparency will be reviewed against native scan.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "cma-2006-13-b-set",
+        "name": "Ape Fishing pond ornaments"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 3538,
+      "height": 5000
+    },
+    "master_longest_dimension_cap": 3484,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Small pleated rose cap flower with folded green calyx and paired green leaves on a tall stem. Part of the Cleveland 1524 Psalter and Prayerbook set.",
+    "categories": [
+      "botanical",
+      "floral"
+    ],
+    "subjects": [
+      "flower",
+      "leaf",
+      "stem"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "pink",
+      "green",
+      "brown"
+    ],
+    "composition": "standalone",
+    "name": "small-rose-cap-flower-on-upright-green-stem",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "cma-1999-136-b",
+    "png": "png/small-rose-cap-flower-on-upright-green-stem.png",
+    "webp": "webp/small-rose-cap-flower-on-upright-green-stem.webp",
+    "width": 652,
+    "height": 2077,
+    "png_bytes": 891668,
+    "webp_bytes": 578598,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/small-rose-cap-flower-on-upright-green-stem.png",
+        "webp": "webp/128/small-rose-cap-flower-on-upright-green-stem.webp",
+        "width": 40,
+        "height": 128,
+        "png_bytes": 7651,
+        "webp_bytes": 6586
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/small-rose-cap-flower-on-upright-green-stem.png",
+        "webp": "webp/256/small-rose-cap-flower-on-upright-green-stem.webp",
+        "width": 80,
+        "height": 256,
+        "png_bytes": 23609,
+        "webp_bytes": 20704
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/small-rose-cap-flower-on-upright-green-stem.png",
+        "webp": "webp/512/small-rose-cap-flower-on-upright-green-stem.webp",
+        "width": 161,
+        "height": 512,
+        "png_bytes": 79146,
+        "webp_bytes": 58788
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/small-rose-cap-flower-on-upright-green-stem.png",
+        "webp": "webp/768/small-rose-cap-flower-on-upright-green-stem.webp",
+        "width": 241,
+        "height": 768,
+        "png_bytes": 161297,
+        "webp_bytes": 117738
+      }
+    ],
+    "derivation": "native-source-extraction",
+    "provenance": {
+      "institution": "Cleveland Museum of Art",
+      "title": "Leaf from a Psalter and Prayerbook: Ornamental Border with Carnations, a Thistle, and a Cook Ladling Soup (verso)",
+      "object_identifier": "1999.136.b",
+      "date": "c. 1524",
+      "record_url": "https://clevelandart.org/art/1999.136.b",
+      "image_rights": "CC0; share_license_status=CC0",
+      "rights_url": "https://www.clevelandart.org/open-access",
+      "source_sha256": "64fd45e2044d037b0d4576e9b69042250e901d07df8333844d1032718804f087",
+      "image_url": "https://openaccess-cdn.clevelandart.org/1999.136.b/1999.136.b_full.tif",
+      "method": "native-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original independent specimen with printed plate rules and page removed. AI-assisted extraction remains approximate; source bounds, actual native subject cap, original and exact prompt retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "cleveland-1524-psalter-prayerbook",
+        "name": "Cleveland 1524 Psalter and Prayerbook"
+      },
+      {
+        "id": "cma-1999-136-b-set",
+        "name": "Leaf from a Psalter and Prayerbook: Ornamental Border with Carnations, a Thistle, and a Cook Ladling Soup (verso) (cma-1999-136-b)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 8837,
+      "height": 10616
+    },
+    "master_longest_dimension_cap": 2077,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Round spiny green thistle backed by rose petals, with two serrated green leaves on its curved stem. Part of the Cleveland 1524 Psalter and Prayerbook set.",
+    "categories": [
+      "botanical",
+      "floral"
+    ],
+    "subjects": [
+      "flower",
+      "leaf",
+      "stem"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "green",
+      "pink",
+      "brown"
+    ],
+    "composition": "standalone",
+    "name": "spiny-green-thistle-with-rose-petals",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "cma-1999-136-b",
+    "png": "png/spiny-green-thistle-with-rose-petals.png",
+    "webp": "webp/spiny-green-thistle-with-rose-petals.webp",
+    "width": 999,
+    "height": 1407,
+    "png_bytes": 1561767,
+    "webp_bytes": 1012458,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/spiny-green-thistle-with-rose-petals.png",
+        "webp": "webp/128/spiny-green-thistle-with-rose-petals.webp",
+        "width": 91,
+        "height": 128,
+        "png_bytes": 23519,
+        "webp_bytes": 19404
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/spiny-green-thistle-with-rose-petals.png",
+        "webp": "webp/256/spiny-green-thistle-with-rose-petals.webp",
+        "width": 182,
+        "height": 256,
+        "png_bytes": 78426,
+        "webp_bytes": 58476
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/spiny-green-thistle-with-rose-petals.png",
+        "webp": "webp/512/spiny-green-thistle-with-rose-petals.webp",
+        "width": 364,
+        "height": 512,
+        "png_bytes": 270193,
+        "webp_bytes": 187046
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/spiny-green-thistle-with-rose-petals.png",
+        "webp": "webp/768/spiny-green-thistle-with-rose-petals.webp",
+        "width": 545,
+        "height": 768,
+        "png_bytes": 551481,
+        "webp_bytes": 392096
+      }
+    ],
+    "derivation": "native-source-extraction",
+    "provenance": {
+      "institution": "Cleveland Museum of Art",
+      "title": "Leaf from a Psalter and Prayerbook: Ornamental Border with Carnations, a Thistle, and a Cook Ladling Soup (verso)",
+      "object_identifier": "1999.136.b",
+      "date": "c. 1524",
+      "record_url": "https://clevelandart.org/art/1999.136.b",
+      "image_rights": "CC0; share_license_status=CC0",
+      "rights_url": "https://www.clevelandart.org/open-access",
+      "source_sha256": "64fd45e2044d037b0d4576e9b69042250e901d07df8333844d1032718804f087",
+      "image_url": "https://openaccess-cdn.clevelandart.org/1999.136.b/1999.136.b_full.tif",
+      "method": "native-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "The complete original connected flower/leaf/stem decoration retains native source RGB and proportions. Alpha-only AI ownership guide and exact prompt retained; actual reflective gilt page field cleared at the inspected exterior. Pale painted surfaces and worn pigment remain opaque. Source-textured PNG retained; no vector or repeat inferred.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "cleveland-1524-psalter-prayerbook",
+        "name": "Cleveland 1524 Psalter and Prayerbook"
+      },
+      {
+        "id": "cma-1999-136-b-set",
+        "name": "Leaf from a Psalter and Prayerbook: Ornamental Border with Carnations, a Thistle, and a Cook Ladling Soup (verso) (cma-1999-136-b)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 8837,
+      "height": 10616
+    },
+    "master_longest_dimension_cap": 1407,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A tall silver gray acanthus scroll intertwined with red stemmed flowers and green leaves.",
+    "categories": [
+      "floral",
+      "botanical",
+      "scrollwork"
+    ],
+    "subjects": [
+      "acanthus",
+      "flower",
+      "leaf",
+      "stem",
+      "scroll"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "gray",
+      "cream",
+      "red",
+      "blue",
+      "green"
+    ],
+    "composition": "single-ornament",
+    "name": "tall-silver-acanthus-scroll-with-red-and-blue-flowers",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "cma-2001-79-b",
+    "png": "png/tall-silver-acanthus-scroll-with-red-and-blue-flowers.png",
+    "webp": "webp/tall-silver-acanthus-scroll-with-red-and-blue-flowers.webp",
+    "width": 430,
+    "height": 2172,
+    "png_bytes": 1417476,
+    "webp_bytes": 1078842,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/tall-silver-acanthus-scroll-with-red-and-blue-flowers.png",
+        "webp": "webp/128/tall-silver-acanthus-scroll-with-red-and-blue-flowers.webp",
+        "width": 25,
+        "height": 128,
+        "png_bytes": 10954,
+        "webp_bytes": 9090
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/tall-silver-acanthus-scroll-with-red-and-blue-flowers.png",
+        "webp": "webp/256/tall-silver-acanthus-scroll-with-red-and-blue-flowers.webp",
+        "width": 51,
+        "height": 256,
+        "png_bytes": 37098,
+        "webp_bytes": 30342
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/tall-silver-acanthus-scroll-with-red-and-blue-flowers.png",
+        "webp": "webp/512/tall-silver-acanthus-scroll-with-red-and-blue-flowers.webp",
+        "width": 101,
+        "height": 512,
+        "png_bytes": 116114,
+        "webp_bytes": 90774
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/tall-silver-acanthus-scroll-with-red-and-blue-flowers.png",
+        "webp": "webp/768/tall-silver-acanthus-scroll-with-red-and-blue-flowers.webp",
+        "width": 152,
+        "height": 768,
+        "png_bytes": 229879,
+        "webp_bytes": 173534
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Cleveland Museum of Art",
+      "title": "Leaf from a Book of Hours: Text with Illustrated Border (verso)",
+      "object_identifier": "2001.79.b",
+      "date": "c. 1510",
+      "record_url": "https://clevelandart.org/art/2001.79.b",
+      "image_rights": "CC0; share_license_status=CC0",
+      "rights_url": "https://www.clevelandart.org/open-access",
+      "source_sha256": "0d90fea64ea8ab48fbd455ce35394aad89858f0753d88cfec28f46db1aaea748",
+      "image_url": "https://openaccess-cdn.clevelandart.org/2001.79.b/2001.79.b_full.tif",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original independent specimen with printed plate rules and page removed. AI-assisted extraction remains approximate; source bounds, actual native subject cap, original and exact prompt retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 4290,
+      "height": 5416
+    },
+    "master_longest_dimension_cap": 2172,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  }
+]
